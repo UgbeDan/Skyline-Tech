@@ -1,0 +1,39 @@
+.Container{
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+
+}
+
+table,th,td{
+
+    border-top: 1px solid; 
+    border-collapse: collapse;
+}
+
+table{
+    width: 100%;
+
+
+}
+
+td, th{
+
+    padding: 15px;
+    
+}
+
+th{
+    background-color: blue;
+    font-size: 20px;
+}
+
+caption{
+    background-color: aquamarine;
+    width: 30%;
+    padding: 15px;
+    margin: auto;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
